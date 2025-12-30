@@ -1,0 +1,52 @@
+[
+    {
+        "year": 2015,
+        "dividend_cash": 1.5,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2016,
+        "dividend_cash": 1.42,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2017,
+        "dividend_cash": 1.5,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2018,
+        "dividend_cash": 1.7,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2019,
+        "dividend_cash": 1.7,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2020,
+        "dividend_cash": 1.58,
+        "dividend_stock": 0
+    },
+    {
+        "year": 2021,
+        "dividend_cash": 1.4,
+        "dividend_stock": 0.25
+    },
+    {
+        "year": 2022,
+        "dividend_cash": 1.24,
+        "dividend_stock": 0.08
+    },
+    {
+        "year": 2023,
+        "dividend_cash": 1.5,
+        "dividend_stock": 0.3
+    },
+    {
+        "year": 2024,
+        "dividend_cash": 1.6,
+        "dividend_stock": 0
+    }
+]
