@@ -2,81 +2,193 @@
     {
         "id": "2887",
         "name": "台新新光金控",
-        "color": "#d70c18"
+        "color": "#d70c18",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告經董事會決議通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "2890",
         "name": "永豐金控",
-        "color": "#b19545"
+        "color": "#b19545",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告經董事會決議通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "2884",
         "name": "玉山金控",
-        "color": "#00a19b"
+        "color": "#00a19b",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["除權除息基準日"]
+        }]
     },
     {
         "id": "2891",
         "name": "中信金控",
-        "color": "#307778"
+        "color": "#307778",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告經董事會決議通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "2886",
         "name": "兆豐金控",
-        "color": "#c5a95f"
+        "color": "#c5a95f",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告", "決議通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["本公司股利配發"]
+        }]
     },
     {
         "id": "2892",
         "name": "第一金控",
-        "color": "#025c43"
+        "color": "#025c43",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["提報董事會", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["決議股利分派"]
+        }]
     },
     {
         "id": "2881",
         "name": "富邦金控",
-        "color": "#008fc7"
+        "color": "#008fc7",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["決議通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "5880",
         "name": "合庫金控",
-        "color": "#008061"
+        "color": "#008061",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["決議通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["股利分派"]
+        }]
     },
     {
         "id": "2885",
         "name": "元大金控",
-        "color": "#0067b3"
+        "color": "#0067b3",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告經董事會決議通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["股利分配"]
+        }]
     },
     {
         "id": "2882",
         "name": "國泰金控",
-        "color": "#78cb9e"
+        "color": "#78cb9e",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["決算財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "2880",
         "name": "華南金控",
-        "color": "#e60012"
+        "color": "#e60012",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["決議通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["決議股利分派"]
+        }]
     },
     {
         "id": "2834",
         "name": "台企銀",
-        "color": "#DA3700"
+        "color": "#DA3700",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["分派股利"]
+        }]
     },
     {
         "id": "2883",
         "name": "凱基金控",
-        "color": "#68c89e"
+        "color": "#68c89e",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["董事會通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["普通股股利"]
+        }]
     },
     {
         "id": "2812",
         "name": "台中銀",
-        "color": "#e60012"
+        "color": "#e60012",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告業經提報董事會通過"]
+        }, {
+            "id": "dividends",
+            "keywords": ["股利"]
+        }]
     },
     {
         "id": "2801",
         "name": "彰銀",
-        "color": "#ffcf00"
+        "color": "#ffcf00",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["股利分派"]
+        }]
     },
     {
         "id": "2845",
         "name": "遠東銀",
-        "color": "#e60000"
+        "color": "#e60000",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["董事會通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["股利發放"]
+        }]
     }
 ]
