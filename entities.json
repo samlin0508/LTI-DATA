@@ -5,7 +5,7 @@
         "color": "#d70c18",
         "keywords": [{
             "id": "quarterlyEps",
-            "keywords": ["合併財務報告經董事會決議通過"]
+            "keywords": ["合併財務報告", "決議通過"]
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
@@ -17,7 +17,7 @@
         "color": "#b19545",
         "keywords": [{
             "id": "quarterlyEps",
-            "keywords": ["合併財務報告經董事會決議通過"]
+            "keywords": ["合併財務報告", "決議通過"]
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
@@ -41,7 +41,7 @@
         "color": "#307778",
         "keywords": [{
             "id": "quarterlyEps",
-            "keywords": ["合併財務報告經董事會決議通過"]
+            "keywords": ["合併財務報告", "決議通過"]
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
@@ -56,7 +56,7 @@
             "keywords": ["合併財務報告", "決議通過"]
         }, {
             "id": "dividends",
-            "keywords": ["本公司股利配發"]
+            "keywords": ["年度股利分派"]
         }]
     },
     {
@@ -101,7 +101,7 @@
         "color": "#0067b3",
         "keywords": [{
             "id": "quarterlyEps",
-            "keywords": ["合併財務報告經董事會決議通過"]
+            "keywords": ["合併財務報告", "決議通過"]
         }, {
             "id": "dividends",
             "keywords": ["股利分配"]
@@ -161,10 +161,10 @@
         "color": "#e60012",
         "keywords": [{
             "id": "quarterlyEps",
-            "keywords": ["合併財務報告業經提報董事會通過"]
+            "keywords": ["合併財務報告", "董事會通過"]
         }, {
             "id": "dividends",
-            "keywords": ["股利"]
+            "keywords": ["董事會決議", "年度股利"]
         }]
     },
     {
