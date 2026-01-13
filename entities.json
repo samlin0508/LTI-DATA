@@ -32,7 +32,8 @@
             "keywords": ["合併財務報告"]
         }, {
             "id": "dividends",
-            "keywords": ["除權除息基準日"]
+            "keywords": ["除權除息基準日"],
+            "keywords2": ["盈餘", "轉增資發行新股"]
         }]
     },
     {
