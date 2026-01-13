@@ -9,6 +9,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -21,6 +24,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -34,6 +40,9 @@
             "id": "dividends",
             "keywords": ["除權除息基準日"],
             "keywords2": ["盈餘", "轉增資發行新股"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -46,6 +55,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["召開", "年度", "法人說明會"]
         }]
     },
     {
@@ -58,6 +70,9 @@
         }, {
             "id": "dividends",
             "keywords": ["年度股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -70,6 +85,9 @@
         }, {
             "id": "dividends",
             "keywords": ["決議股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -82,6 +100,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -94,6 +115,9 @@
         }, {
             "id": "dividends",
             "keywords": ["股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -106,6 +130,9 @@
         }, {
             "id": "dividends",
             "keywords": ["股利分配"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["線上投資人會議"]
         }]
     },
     {
@@ -118,6 +145,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -130,6 +160,9 @@
         }, {
             "id": "dividends",
             "keywords": ["決議股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -142,6 +175,9 @@
         }, {
             "id": "dividends",
             "keywords": ["分派股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -154,6 +190,9 @@
         }, {
             "id": "dividends",
             "keywords": ["普通股股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -166,6 +205,9 @@
         }, {
             "id": "dividends",
             "keywords": ["董事會決議", "年度股利"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -178,6 +220,9 @@
         }, {
             "id": "dividends",
             "keywords": ["股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
         }]
     },
     {
@@ -190,6 +235,9 @@
         }, {
             "id": "dividends",
             "keywords": ["股利發放"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法說會"]
         }]
     }
 ]
