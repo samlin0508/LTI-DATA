@@ -48,5 +48,10 @@
         "year": 2024,
         "dividend_cash": 1.55,
         "dividend_stock": 0.3
+    },
+    {
+        "year": 2025,
+        "dividend_cash": 1.8,
+        "dividend_stock": 0.4
     }
 ]
