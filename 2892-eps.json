@@ -800,8 +800,8 @@
     {
         "year": 2026,
         "month": 2,
-        "eps": null,
-        "eps_month": null
+        "eps": 0.38,
+        "eps_month": 0.17
     },
     {
         "year": 2026,
