@@ -1,0 +1,10 @@
+[
+    {
+        "etf": "006208",
+        "endpoint": "https://websys.fsit.com.tw/FubonETF/Fund/Assets.aspx?stkId=006208"
+    },
+    {
+        "etf": "009816",
+        "endpoint": "https://www.kgifund.com.tw/Fund/Detail?fundID=J023"
+    }
+]
