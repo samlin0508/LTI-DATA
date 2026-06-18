@@ -25,7 +25,8 @@
         }, {
             "id": "6985",
             "name": "新光人壽"
-        }]
+        }],
+        "trackEtfWeightChanges": true
     },
     {
         "id": "2890",
