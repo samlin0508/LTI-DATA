@@ -41,7 +41,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "trackEtfWeightChanges": true
     },
     {
         "id": "2884",
