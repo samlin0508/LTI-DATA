@@ -31,5 +31,15 @@
         "etf": "00713",
         "endpoint": "https://etfapi.yuantaetfs.com/ectranslation/api/bridge?APIType=ETFAPI&CompanyName=YUANTAFUNDS&PageName=%2Fproduct%2Fdetail%2F00713%2Fratio&DeviceId=42cd8ce0-3bef-4492-a2d4-89d01362c65e&FuncId=PCF%2FDaily&AppName=ETF&Device=3&Platform=ETF&ticker=00713",
         "method": "GET"
+    },
+    {
+        "etf": "00922",
+        "endpoint": "https://cwapi.cathaysite.com.tw/api/ETF/GetETFDetailStockList?FundCode=DO&SearchDate=",
+        "method": "GET"
+    },
+    {
+        "etf": "00940",
+        "endpoint": "https://etfapi.yuantaetfs.com/ectranslation/api/bridge?APIType=ETFAPI&CompanyName=YUANTAFUNDS&PageName=%2Fproduct%2Fdetail%2F00940%2Fratio&DeviceId=42cd8ce0-3bef-4492-a2d4-89d01362c65e&FuncId=PCF%2FDaily&AppName=ETF&Device=3&Platform=ETF&ticker=00940",
+        "method": "GET"
     }
 ]
