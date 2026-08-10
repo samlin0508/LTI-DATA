@@ -42,6 +42,16 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "subsidiaries": [{
+            "id": "5849",
+            "name": "永豐銀行"
+        }, {
+            "id": "2809",
+            "name": "京城銀"
+        }, {
+            "id": "0009A0",
+            "name": "永豐金證"
+        }],
         "trackEtfWeightChanges": true
     },
     {
