@@ -68,6 +68,10 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "subsidiaries": [{
+            "id": "5847",
+            "name": "玉山銀行"
+        }],
         "trackEtfWeightChanges": true
     },
     {
@@ -219,6 +223,16 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
+        }],
+        "subsidiaries": [{
+            "id": "2837",
+            "name": "凱基銀行"
+        }, {
+            "id": "2823",
+            "name": "凱基人壽"
+        }, {
+            "id": "6008",
+            "name": "凱基證券"
         }],
         "trackEtfWeightChanges": true
     },
