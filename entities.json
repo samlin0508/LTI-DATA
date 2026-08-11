@@ -71,6 +71,10 @@
         "subsidiaries": [{
             "id": "5847",
             "name": "玉山銀行"
+        }, {
+            "id": "000884",
+            "pseudoId": "28840003",
+            "name": "玉山證券"
         }],
         "trackEtfWeightChanges": true
     },
