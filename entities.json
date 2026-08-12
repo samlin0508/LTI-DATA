@@ -92,6 +92,13 @@
             "id": "investorConference",
             "keywords": ["召開", "年度", "法人說明會"]
         }],
+        "subsidiaries": [{
+            "id": "5841",
+            "name": "中信銀"
+        }, {
+            "id": "2833",
+            "name": "台灣人壽"
+        }],
         "trackEtfWeightChanges": true
     },
     {
@@ -137,6 +144,16 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
+        }],
+        "subsidiaries": [{
+            "id": "5836",
+            "name": "台北富邦"
+        }, {
+            "id": "5865",
+            "name": "富邦人壽"
+        }, {
+            "id": "000960",
+            "name": "富邦證券"
         }]
     },
     {
@@ -167,6 +184,10 @@
         }, {
             "id": "investorConference",
             "keywords": ["線上投資人會議"]
+        }],
+        "subsidiaries": [{
+            "id": "000980",
+            "name": "元大證券"
         }]
     },
     {
@@ -182,6 +203,16 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
+        }],
+        "subsidiaries": [{
+            "id": "5835",
+            "name": "國泰世華"
+        }, {
+            "id": "5846",
+            "name": "國泰人壽"
+        }, {
+            "id": "000888",
+            "name": "國泰證"
         }]
     },
     {
