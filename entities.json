@@ -315,5 +315,20 @@
             "id": "investorConference",
             "keywords": ["法說會"]
         }]
+    },
+    {
+        "id": "2889",
+        "name": "國票金",
+        "color": "#B8002C",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["董事會通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["董事會通過", "年度盈餘分配"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["本公司自辦法人說明會"]
+        }]
     }
 ]
