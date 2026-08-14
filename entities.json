@@ -345,5 +345,20 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }]
+    },
+    {
+        "id": "2838",
+        "name": "聯邦銀",
+        "color": "#baf3f0",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["董事會決議通過", "合併財務報告"]
+        }, {
+            "id": "dividends",
+            "keywords": ["董事會決議普通股股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
+        }]
     }
 ]
