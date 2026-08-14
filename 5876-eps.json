@@ -1,0 +1,218 @@
+[
+  {
+    "year": 2024,
+    "month": 1,
+    "eps": 0.28,
+    "eps_month": 0.28
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "eps": 0.58,
+    "eps_month": 0.3
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "eps": 0.88,
+    "eps_month": 0.3
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "eps": 1.18,
+    "eps_month": 0.3
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "eps": 1.54,
+    "eps_month": 0.36
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "eps": 1.41,
+    "eps_month": -0.13
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "eps": 1.64,
+    "eps_month": 0.23
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "eps": 1.95,
+    "eps_month": 0.31
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "eps": 2.18,
+    "eps_month": 0.23
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "eps": 2.23,
+    "eps_month": 0.05
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "eps": 2.46,
+    "eps_month": 0.23
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "eps": 2.76,
+    "eps_month": 0.3
+  },
+  {
+    "year": 2025,
+    "month": 1,
+    "eps": 0.35,
+    "eps_month": 0.35
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "eps": 0.63,
+    "eps_month": 0.28
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "eps": 0.94,
+    "eps_month": 0.31
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "eps": 1.23,
+    "eps_month": 0.29
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "eps": 1.35,
+    "eps_month": 0.12
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "eps": 1.59,
+    "eps_month": 0.24
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "eps": 2.04,
+    "eps_month": 0.45
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "eps": 2.34,
+    "eps_month": 0.3
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "eps": 2.56,
+    "eps_month": 0.22
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "eps": 2.77,
+    "eps_month": 0.21
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "eps": 2.92,
+    "eps_month": 0.15
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "eps": 3.05,
+    "eps_month": 0.13
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "eps": 0.37,
+    "eps_month": 0.37
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "eps": 0.66,
+    "eps_month": 0.29
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "eps": 1.04,
+    "eps_month": 0.38
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "eps": 1.4,
+    "eps_month": 0.36
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "eps": 1.68,
+    "eps_month": 0.28
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "eps": 2.08,
+    "eps_month": 0.4
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "eps": 2.51,
+    "eps_month": 0.43
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "eps": null,
+    "eps_month": null
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "eps": null,
+    "eps_month": null
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "eps": null,
+    "eps_month": null
+  },
+  {
+    "year": 2026,
+    "month": 11,
+    "eps": null,
+    "eps_month": null
+  },
+  {
+    "year": 2026,
+    "month": 12,
+    "eps": null,
+    "eps_month": null
+  }
+]

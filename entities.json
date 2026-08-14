@@ -330,5 +330,20 @@
             "id": "investorConference",
             "keywords": ["本公司自辦法人說明會"]
         }]
+    },
+    {
+        "id": "5876",
+        "name": "上海商銀",
+        "color": "#e7373c",
+        "keywords": [{
+            "id": "quarterlyEps",
+            "keywords": ["合併財務報告", "提報董事會"]
+        }, {
+            "id": "dividends",
+            "keywords": ["董事會決議股利分派"]
+        }, {
+            "id": "investorConference",
+            "keywords": ["法人說明會"]
+        }]
     }
 ]
