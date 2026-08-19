@@ -26,7 +26,8 @@
             "id": "6985",
             "name": "新光人壽"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9
     },
     {
         "id": "2890",
@@ -52,7 +53,8 @@
             "id": "0009A0",
             "name": "永豐金證"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9
     },
     {
         "id": "2884",
@@ -76,7 +78,8 @@
             "pseudoId": "28840003",
             "name": "玉山證券"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9
     },
     {
         "id": "2891",
@@ -99,7 +102,8 @@
             "id": "2833",
             "name": "台灣人壽"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9
     },
     {
         "id": "2886",
@@ -154,7 +158,8 @@
         }, {
             "id": "000960",
             "name": "富邦證券"
-        }]
+        }],
+        "trackEtfWeightChanges": true
     },
     {
         "id": "5880",
@@ -188,7 +193,8 @@
         "subsidiaries": [{
             "id": "000980",
             "name": "元大證券"
-        }]
+        }],
+        "trackEtfWeightChanges": true
     },
     {
         "id": "2882",
@@ -213,7 +219,8 @@
         }, {
             "id": "000888",
             "name": "國泰證"
-        }]
+        }],
+        "trackEtfWeightChanges": true
     },
     {
         "id": "2880",
@@ -269,7 +276,8 @@
             "id": "6008",
             "name": "凱基證券"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9
     },
     {
         "id": "2812",
