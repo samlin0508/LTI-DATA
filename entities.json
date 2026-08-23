@@ -27,7 +27,8 @@
             "name": "新光人壽"
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9
+        "tagPriorityInCMoney": 9,
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2890",
