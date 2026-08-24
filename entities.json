@@ -55,7 +55,8 @@
             "name": "永豐金證"
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9
+        "tagPriorityInCMoney": 9,
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2884",
