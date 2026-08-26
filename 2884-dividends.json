@@ -1,57 +1,57 @@
 [
-    {
-        "year": 2015,
-        "dividend_cash": 0.43,
-        "dividend_stock": 1
-    },
-    {
-        "year": 2016,
-        "dividend_cash": 0.4908,
-        "dividend_stock": 0.7408
-    },
-    {
-        "year": 2017,
-        "dividend_cash": 0.6126,
-        "dividend_stock": 0.6126
-    },
-    {
-        "year": 2018,
-        "dividend_cash": 0.71,
-        "dividend_stock": 0.711
-    },
-    {
-        "year": 2019,
-        "dividend_cash": 0.7911,
-        "dividend_stock": 0.7969
-    },
-    {
-        "year": 2020,
-        "dividend_cash": 0.61,
-        "dividend_stock": 0.6111
-    },
-    {
-        "year": 2021,
-        "dividend_cash": 0.67,
-        "dividend_stock": 0.6739
-    },
-    {
-        "year": 2022,
-        "dividend_cash": 0.1894,
-        "dividend_stock": 0.3788
-    },
-    {
-        "year": 2023,
-        "dividend_cash": 1.2,
-        "dividend_stock": 0.2003
-    },
-    {
-        "year": 2024,
-        "dividend_cash": 1.2,
-        "dividend_stock": 0.1002
-    },
-    {
-        "year": 2025,
-        "dividend_cash": 1.4,
-        "dividend_stock": 0
-    }
+  {
+    "year": 2015,
+    "dividend_cash": 0.43,
+    "dividend_stock": 1
+  },
+  {
+    "year": 2016,
+    "dividend_cash": 0.4908,
+    "dividend_stock": 0.7408
+  },
+  {
+    "year": 2017,
+    "dividend_cash": 0.6126,
+    "dividend_stock": 0.6126
+  },
+  {
+    "year": 2018,
+    "dividend_cash": 0.71,
+    "dividend_stock": 0.711
+  },
+  {
+    "year": 2019,
+    "dividend_cash": 0.7911,
+    "dividend_stock": 0.7969
+  },
+  {
+    "year": 2020,
+    "dividend_cash": 0.61,
+    "dividend_stock": 0.6111
+  },
+  {
+    "year": 2021,
+    "dividend_cash": 0.67,
+    "dividend_stock": 0.6739
+  },
+  {
+    "year": 2022,
+    "dividend_cash": 0.1894,
+    "dividend_stock": 0.3788
+  },
+  {
+    "year": 2023,
+    "dividend_cash": 1.2,
+    "dividend_stock": 0.2003
+  },
+  {
+    "year": 2024,
+    "dividend_cash": 1.2,
+    "dividend_stock": 0.1002
+  },
+  {
+    "year": 2025,
+    "dividend_cash": 1.4,
+    "dividend_stock": 0
+  }
 ]
