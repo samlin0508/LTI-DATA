@@ -1,57 +1,57 @@
 [
-    {
-        "year": 2015,
-        "dividend_cash": 0.4,
-        "dividend_stock": 0.2
-    },
-    {
-        "year": 2016,
-        "dividend_cash": 0.42,
-        "dividend_stock": 0.23
-    },
-    {
-        "year": 2017,
-        "dividend_cash": 0.439, 
-        "dividend_stock": 0.271
-    },
-    {
-        "year": 2018,
-        "dividend_cash": 0.45,
-        "dividend_stock": 0.265
-    },
-    {
-        "year": 2019,
-        "dividend_cash": 0.468,
-        "dividend_stock": 0.275
-    },
-    {
-        "year": 2020,
-        "dividend_cash": 0.326,
-        "dividend_stock": 0.191
-    },
-    {
-        "year": 2021,
-        "dividend_cash": 0.43,
-        "dividend_stock": 0.158
-    },
-    {
-        "year": 2022,
-        "dividend_cash": 0.4089,
-        "dividend_stock": 0
-    },
-    {
-        "year": 2023,
-        "dividend_cash": 0.506,
-        "dividend_stock": 0.506
-    },
-    {
-        "year": 2024,
-        "dividend_cash": 0.5,
-        "dividend_stock": 0.25
-    },
-    {
-        "year": 2025,
-        "dividend_cash": 0.514,
-        "dividend_stock": 0.1195
-    }
+  {
+    "year": 2015,
+    "dividend_cash": 0.4,
+    "dividend_stock": 0.2
+  },
+  {
+    "year": 2016,
+    "dividend_cash": 0.42,
+    "dividend_stock": 0.23
+  },
+  {
+    "year": 2017,
+    "dividend_cash": 0.439,
+    "dividend_stock": 0.271
+  },
+  {
+    "year": 2018,
+    "dividend_cash": 0.45,
+    "dividend_stock": 0.265
+  },
+  {
+    "year": 2019,
+    "dividend_cash": 0.468,
+    "dividend_stock": 0.275
+  },
+  {
+    "year": 2020,
+    "dividend_cash": 0.326,
+    "dividend_stock": 0.191
+  },
+  {
+    "year": 2021,
+    "dividend_cash": 0.43,
+    "dividend_stock": 0.158
+  },
+  {
+    "year": 2022,
+    "dividend_cash": 0.4089,
+    "dividend_stock": 0
+  },
+  {
+    "year": 2023,
+    "dividend_cash": 0.506,
+    "dividend_stock": 0.506
+  },
+  {
+    "year": 2024,
+    "dividend_cash": 0.5,
+    "dividend_stock": 0.25
+  },
+  {
+    "year": 2025,
+    "dividend_cash": 0.514,
+    "dividend_stock": 0.1195
+  }
 ]
