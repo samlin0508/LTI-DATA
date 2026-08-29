@@ -312,7 +312,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2845",
@@ -327,7 +328,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法說會"]
-        }]
+        }],
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2889",
@@ -342,7 +344,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["本公司自辦法人說明會"]
-        }]
+        }],
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "5876",
