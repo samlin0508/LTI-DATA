@@ -163,7 +163,8 @@
             "id": "000960",
             "name": "富邦證券"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "5880",
@@ -198,7 +199,8 @@
             "id": "000980",
             "name": "元大證券"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2882",
@@ -224,7 +226,8 @@
             "id": "000888",
             "name": "國泰證"
         }],
-        "trackEtfWeightChanges": true
+        "trackEtfWeightChanges": true,
+        "fetchShareholdingDispersion": true
     },
     {
         "id": "2880",
