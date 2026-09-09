@@ -48,12 +48,11 @@
         "method": "GET"
     },
     {
-        "etf": "00935",
-        "endpoint": "https://www.nomurafunds.com.tw/API/ETFAPI/api/Fund/GetFundAssets",
+        "etf": "00982A",
+        "endpoint": "https://www.capitalfund.com.tw/CFWeb/api/etf/buyback",
         "method": "POST",
         "payload": {
-            "FundID":"00935",
-            "SearchDate":null
+            "fundId": "399"
         }
     }
 ]
