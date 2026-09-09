@@ -46,5 +46,14 @@
         "etf": "00991A",
         "endpoint": "https://www.fhtrust.com.tw/api/assets?fundID=ETF23&qDate=",
         "method": "GET"
+    },
+    {
+        "etf": "00935",
+        "endpoint": "https://www.nomurafunds.com.tw/API/ETFAPI/api/Fund/GetFundAssets",
+        "method": "POST",
+        "payload": {
+            "FundID":"00935",
+            "SearchDate":null
+        }
     }
 ]
