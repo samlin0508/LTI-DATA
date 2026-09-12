@@ -383,6 +383,7 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchShareholdingDispersion": true
     }
 ]
