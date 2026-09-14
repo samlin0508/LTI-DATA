@@ -52,6 +52,7 @@
   {
     "year": 2025,
     "dividend_cash": 1.8,
-    "dividend_stock": 0.4
+    "dividend_stock": 0.4,
+    "ex_dividend_stock_date": "2026-08-18"
   }
 ]
