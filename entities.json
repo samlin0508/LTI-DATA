@@ -28,7 +28,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerDailyReport": true
     },
     {
         "id": "2890",
