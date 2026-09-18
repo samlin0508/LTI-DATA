@@ -57,7 +57,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2884",
@@ -83,7 +84,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2891",
@@ -108,7 +110,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2886",
@@ -289,7 +292,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2812",
