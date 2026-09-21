@@ -264,7 +264,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2883",
@@ -342,7 +343,8 @@
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2889",
@@ -389,6 +391,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     }
 ]
