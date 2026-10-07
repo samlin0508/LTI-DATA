@@ -391,6 +391,8 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
+        "tagPriorityInCMoney": 9,
         "fetchShareholdingDispersion": true,
         "fetchForeignBrokerBuySellReport": true
     }
