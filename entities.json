@@ -81,6 +81,9 @@
             "id": "000884",
             "pseudoId": "28840003",
             "name": "玉山證券"
+        }, {
+            "id": "2867",
+            "name": "三商壽"
         }],
         "trackEtfWeightChanges": true,
         "tagPriorityInCMoney": 9,
