@@ -54,5 +54,15 @@
         "payload": {
             "fundId": "399"
         }
+    },
+    {
+        "etf": "00406A",
+        "endpoint": "https://www.ctbcinvestments.com.tw/API/etf/ETFHoldingWeight?token=",
+        "method": "POST",
+        "payload": {
+            "token": "",
+            "FID": "E0038",
+            "StartDate": ""
+        }
     }
 ]
