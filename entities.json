@@ -384,7 +384,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2838",
