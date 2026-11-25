@@ -126,7 +126,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2892",
@@ -141,7 +142,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2881",
@@ -168,7 +170,8 @@
             "name": "富邦證券"
         }],
         "trackEtfWeightChanges": true,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "5880",
@@ -183,7 +186,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2885",
@@ -204,7 +208,8 @@
             "name": "元大證券"
         }],
         "trackEtfWeightChanges": true,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2882",
@@ -231,7 +236,8 @@
             "name": "國泰證"
         }],
         "trackEtfWeightChanges": true,
-        "fetchShareholdingDispersion": true
+        "fetchShareholdingDispersion": true,
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2880",
@@ -246,7 +252,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2834",
@@ -308,7 +315,8 @@
         }, {
             "id": "investorConference",
             "keywords": ["法人說明會"]
-        }]
+        }],
+        "fetchForeignBrokerBuySellReport": true
     },
     {
         "id": "2801",
