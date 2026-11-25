@@ -56,7 +56,6 @@
             "name": "永豐金證"
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9,
         "fetchShareholdingDispersion": true,
         "fetchForeignBrokerBuySellReport": true
     },
@@ -111,7 +110,6 @@
             "name": "台灣人壽"
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9,
         "fetchShareholdingDispersion": true,
         "fetchForeignBrokerBuySellReport": true
     },
@@ -346,7 +344,6 @@
             "keywords": ["法說會"]
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9,
         "fetchShareholdingDispersion": true,
         "fetchForeignBrokerBuySellReport": true
     },
@@ -396,7 +393,6 @@
             "keywords": ["法人說明會"]
         }],
         "trackEtfWeightChanges": true,
-        "tagPriorityInCMoney": 9,
         "fetchShareholdingDispersion": true,
         "fetchForeignBrokerBuySellReport": true
     }
