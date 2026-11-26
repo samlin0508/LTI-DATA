@@ -127,6 +127,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
         "fetchForeignBrokerBuySellReport": true
     },
     {
@@ -143,6 +144,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
         "fetchForeignBrokerBuySellReport": true
     },
     {
@@ -187,6 +189,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
         "fetchForeignBrokerBuySellReport": true
     },
     {
@@ -253,6 +256,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
         "fetchForeignBrokerBuySellReport": true
     },
     {
@@ -316,6 +320,7 @@
             "id": "investorConference",
             "keywords": ["法人說明會"]
         }],
+        "trackEtfWeightChanges": true,
         "fetchForeignBrokerBuySellReport": true
     },
     {
